@@ -8,7 +8,7 @@ import tkinter.font as font
 from config import *
 from lang import _langs, languages, language_default
 from log import log_write
-#1
+
 def main():
     # Create window
     root = Tk()
