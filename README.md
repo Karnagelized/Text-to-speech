@@ -29,12 +29,12 @@ Portuguese, Romanian, Sinhala, Slovak, Albanian, Serbian,
 Sundanese, Swedish, Swahili, Tamil, Telugu, Thai, Filipino,
 Turkish, Ukrainian, Urdu, Vietnamese, Chinese.
 
-###💡 Установка и запуск
+### 💡 Установка и запуск
 Клонируйте репозиторий и установите файл requirements.txt
 в среде Python>=3.7.0
 
     git clone https://github.com/123  # clone
-    cd yolov3
+    cd 
     pip install -r requirements.txt  # install
 
 Вы можете скачать сразу exe файл.
