@@ -33,13 +33,12 @@ Turkish, Ukrainian, Urdu, Vietnamese, Chinese.
 Клонируйте репозиторий и установите файл requirements.txt
 в среде Python>=3.7.0
 
-    git clone https://github.com/123  # clone
-    cd 
+    git clone https://github.com/Karnagelized/Text-to-speech.git  # clone
+    cd Text\ to\ speech
     pip install -r requirements.txt  # install
 
 Вы можете скачать сразу exe файл.
 
-    123123
 ### 🔗 Ссылки
 
 <div align="center">
