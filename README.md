@@ -7,7 +7,7 @@
 приложения для озвучивания текстов, фраз, на большое
 количество языков.
 
-<img width="70%" src="https://github.com/Karnagelized/assets/blob/main/projects/text-to-speech/windo1w.png">
+<img width="70%" src="https://github.com/Karnagelized/assets/blob/main/projects/text-to-speech/window.png">
 
 ### 📋 Основные библиотеки
     import gtts
