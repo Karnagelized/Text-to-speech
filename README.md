@@ -1,15 +1,15 @@
 <h2 align='center'> Text to speech </h2>
 
-Приложение позволяет удобно конвертировать слова, предложения, в адуио.
+Приложение позволяет удобно конвертировать текст в адуио.
 
-###📌 Цель проекта
-Изучение графического фреймоврка `tkinter`, написание
+### 📌 Цель проекта
+Изучение графического фреймоворка `tkinter`, написание
 приложения для озвучивания текстов, фраз, на большое
 количество языков.
 
-<img src="https://github.com/Karnagelized/assets/blob/main/text_to_speech/convert_window.png">
+<img width="70%" src="https://github.com/Karnagelized/assets/blob/main/projects/text-to-speech/window.png">
 
-###📋 Основные библиотеки
+### 📋 Основные библиотеки
     import gtts
     import re
     import tkinter
@@ -29,17 +29,14 @@ Portuguese, Romanian, Sinhala, Slovak, Albanian, Serbian,
 Sundanese, Swedish, Swahili, Tamil, Telugu, Thai, Filipino,
 Turkish, Ukrainian, Urdu, Vietnamese, Chinese.
 
-###💡 Установка и запуск
+### 💡 Установка и запуск
 Клонируйте репозиторий и установите файл requirements.txt
-в среде Python>=3.7.0
+в среде Python>=3.7.0. В репозитории также приложена актуальная версия .exe приложения. 
 
-    git clone https://github.com/123  # clone
-    cd yolov3
-    pip install -r requirements.txt  # install
+    git clone https://github.com/Karnagelized/Text-to-speech.git        # clone
+    cd Text-to-speech
+    pip install -r requirements.txt     # install
 
-Вы можете скачать сразу exe файл.
-
-    123123
 ### 🔗 Ссылки
 
 <div align="center">

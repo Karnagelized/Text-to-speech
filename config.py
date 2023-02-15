@@ -4,4 +4,4 @@ TITLE = 'Convert Text to Audio'
 
 # Default wight & height
 WIDTH = 800
-HEIGHT = 600
+HEIGHT = 650
