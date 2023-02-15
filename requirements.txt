@@ -1,0 +1,8 @@
+# Karnagelized requirements
+# Usage: pip install -r requirements.txt
+
+# TKinter -------------------------------------
+tkintertable >= 1.3
+
+# MySql -------------------------------------
+gTTS >= 2.2.4
