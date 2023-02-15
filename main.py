@@ -233,7 +233,7 @@ def main():
 
     link_github = Label(
         created_by_frame,
-        text='GitРub',
+        text='GitHub',
         font=('Times New Roman', 15, 'bold'),
         fg='#666',
         cursor='heart',
