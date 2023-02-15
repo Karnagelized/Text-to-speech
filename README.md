@@ -30,11 +30,16 @@ Turkish, Ukrainian, Urdu, Vietnamese, Chinese.
 
 ### 💡 Установка и запуск
 Клонируйте репозиторий и установите файл requirements.txt
-в среде Python>=3.7.0. В репозитории также приложена актуальная версия .exe приложения. 
+в среде Python >= 3.7.0. В репозитории также приложена актуальная версия .exe приложения. 
 
-    git clone https://github.com/Karnagelized/Text-to-speech.git        # clone
+    # Clone
+    git clone https://github.com/Karnagelized/Text-to-speech.git
+    
+    # Moved    
     cd Text-to-speech
-    pip install -r requirements.txt     # install
+    
+    # Install 
+    pip install -r requirements.txt
 
 ### 🔗 Ссылки
 
